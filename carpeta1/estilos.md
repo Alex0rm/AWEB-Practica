@@ -1,4 +1,4 @@
-- Shion de Aries (牡羊座のシオン Ariesu no
+- Shion de Aries (Aries Sión Ariesu no
 - Shion?) es un personaje del manga y anime
 - Saint Seiya conocido como Los Caballeros del
 - Zodiaco creado por Masami Kurumada.
