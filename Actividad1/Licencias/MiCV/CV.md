@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-# ALEJANDRO RUIZ
-</div>
+<div style="text-align: center;"> ALEJANDRO RUIZ </div>
 
 - **Email:** alejandroruizinstituto@gmail.com
 - **Carnet de Conducir:** B
