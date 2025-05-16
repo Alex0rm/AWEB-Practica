@@ -25,6 +25,7 @@
     Crear un archivo nombre_apellido.txt si no estaba creado previamente.
     
     Agregar a sandwich.txt condimentos e ingredientes que le gusten, simulando que es un sandwich que se va a comer.
+
     Antes de realizar cualquier acción con git, guarde el estado actual del directorio en el archivo nombre_apellido.txt. Para esto, se debe ejecutar el comando git status y copiar el resultado en el archivo nombre_apellido.txt. Explique que significa la salida del comando.
     Agregar el archivo sandwich.txt al repositorio local. Para esto, se debe ejecutar el comando git add sandwich.txt.
     Explique que cambio en la salida del comando git status luego de ejecutar el comando git add sandwich.txt.
